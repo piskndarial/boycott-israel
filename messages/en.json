@@ -680,6 +680,11 @@
         "categories": "technology",
         "alternatives": "Other freelance services platforms"
       },
+      "Apple": {
+        "desc": "Apple using their method to stop supporting Palestine.",
+        "categories": "technology",
+        "alternatives": "Samsung"
+      },
       "HP": {
         "desc": "Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF.",
         "categories": "technology",

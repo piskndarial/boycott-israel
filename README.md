@@ -4,7 +4,7 @@ This project is dedicated to the development of a product listing that identifie
 #freepalestine 🇵🇸
 
 ## Live Preview
-Link: https://www.boikotisrael.com
+Link: https://boikotisrahell.netlify.app
 
 ![App Screenshot](https://ucarecdn.com/ad77daec-7298-49b1-a53a-1562a1306267/Screenshot20231208at41626PM.png)
 

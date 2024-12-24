@@ -7,9 +7,9 @@ export const siteConfig: SiteConfig = {
     `,
     url: `https://www.boikotisrael.com/`,
     ogImage: `https://ucarecdn.com/ed78f56d-e797-46d6-99d7-c68ea85776a6/og.png`,
-    name:'SafwanAzman',
+    name:'Putra Iskandar',
     links: {
-        github: 'https://github.com/safwanAzman',
+        github: 'https://github.com/piskndarial',
     },
     keywords: [
         "Boikot israel",

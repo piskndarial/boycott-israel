@@ -1560,6 +1560,15 @@ export function useBoycottList() {
         "proof_link": "https://ucarecdn.com/c6a2ffcc-a723-413d-a3ae-3f018a431a11/hasisraellogo.jpg",
         "alternatives": t("boycottData.Hahne.alternatives").split(',').map(alternative => alternative.trim())
     },
+    {
+        "id": 182,
+        "name": "Apple",
+        "img_url": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo-500x281.png"
+        "categories": t("boycottData.Apple.categories").split(',').map(category => category.trim())
+        "desc": t("boycottData.Apple.desc"),
+        "proof_link": "https://www.apple.com/legal/transparency/il.html",
+        "alternatives": t("boycottData.Apple.alternatives").split(',').map(alternative => alternative.trim())
+    }
     // {
     //     "id": ,
     //     "name": "",
